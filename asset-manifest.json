@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/renta/static/css/main.315d9031.css",
+    "main.js": "/renta/static/js/main.8c1c0d67.js",
+    "static/js/496.b39786ad.chunk.js": "/renta/static/js/496.b39786ad.chunk.js",
+    "static/media/bg-img.jpg": "/renta/static/media/bg-img.b3ffecc745736b504bdd.jpg",
+    "static/media/fa-solid-900.ttf": "/renta/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
+    "static/media/img1.jpg": "/renta/static/media/img1.8976c7cfcb82c70cd929.jpg",
+    "static/media/fa-brands-400.ttf": "/renta/static/media/fa-brands-400.13e40630e5866f777de8.ttf",
+    "static/media/fa-solid-900.woff2": "/renta/static/media/fa-solid-900.bdb9e23299f9d1320a8b.woff2",
+    "static/media/fa-brands-400.woff2": "/renta/static/media/fa-brands-400.7be2266f1be21c44ecd4.woff2",
+    "static/media/fa-regular-400.ttf": "/renta/static/media/fa-regular-400.146404900f7550a9719d.ttf",
+    "static/media/phone2.jpg": "/renta/static/media/phone2.f8482d7972d2bf80ce6c.jpg",
+    "static/media/img5.jpg": "/renta/static/media/img5.29f6605cef232df6db43.jpg",
+    "static/media/phone1.jpg": "/renta/static/media/phone1.8b11bf5e57d73aa33034.jpg",
+    "static/media/fa-regular-400.woff2": "/renta/static/media/fa-regular-400.8bedd7cfa43a6c358cdd.woff2",
+    "static/media/fa-v4compatibility.ttf": "/renta/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
+    "static/media/fa-v4compatibility.woff2": "/renta/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
+    "index.html": "/renta/index.html",
+    "main.315d9031.css.map": "/renta/static/css/main.315d9031.css.map",
+    "main.8c1c0d67.js.map": "/renta/static/js/main.8c1c0d67.js.map",
+    "496.b39786ad.chunk.js.map": "/renta/static/js/496.b39786ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.315d9031.css",
+    "static/js/main.8c1c0d67.js"
+  ]
+}
