@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/renta/static/css/main.80c80863.css",
-    "main.js": "/renta/static/js/main.e957dfed.js",
+    "main.css": "/renta/static/css/main.668f9cbf.css",
+    "main.js": "/renta/static/js/main.f36f1bdb.js",
     "static/js/496.b39786ad.chunk.js": "/renta/static/js/496.b39786ad.chunk.js",
     "static/media/bg-imgg.png": "/renta/static/media/bg-imgg.e0e63430dec9bd9edcfe.png",
     "static/media/fa-solid-900.ttf": "/renta/static/media/fa-solid-900.2877d54f94f30c5d563c.ttf",
@@ -18,12 +18,12 @@
     "static/media/fa-v4compatibility.ttf": "/renta/static/media/fa-v4compatibility.6c0a7b774ffa1cf0a059.ttf",
     "static/media/fa-v4compatibility.woff2": "/renta/static/media/fa-v4compatibility.497d535001197a9c5b38.woff2",
     "index.html": "/renta/index.html",
-    "main.80c80863.css.map": "/renta/static/css/main.80c80863.css.map",
-    "main.e957dfed.js.map": "/renta/static/js/main.e957dfed.js.map",
+    "main.668f9cbf.css.map": "/renta/static/css/main.668f9cbf.css.map",
+    "main.f36f1bdb.js.map": "/renta/static/js/main.f36f1bdb.js.map",
     "496.b39786ad.chunk.js.map": "/renta/static/js/496.b39786ad.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.80c80863.css",
-    "static/js/main.e957dfed.js"
+    "static/css/main.668f9cbf.css",
+    "static/js/main.f36f1bdb.js"
   ]
 }
